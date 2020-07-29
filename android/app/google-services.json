@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372350722954",
+    "firebase_url": "https://here-i-am-007.firebaseio.com",
+    "project_id": "here-i-am-007",
+    "storage_bucket": "here-i-am-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372350722954:android:acdcedf9c06b52c5651e73",
+        "android_client_info": {
+          "package_name": "com.example.here_i_am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372350722954-8mq2ichd6doukbnfqb42u289p070d1ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.here_i_am",
+            "certificate_hash": "4b3e9a75e857fad6cafe279e707398fcc93261e8"
+          }
+        },
+        {
+          "client_id": "372350722954-h6dcaa26fqtiurmpc8lui5brdo4em0ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnZ1OgChx4msJkBqf9oQ7yA2-yhcGUmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372350722954-h6dcaa26fqtiurmpc8lui5brdo4em0ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
