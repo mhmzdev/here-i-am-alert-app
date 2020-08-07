@@ -8,7 +8,7 @@ P.S: It's my friend's Project and he allowed me to open source it :)
 
 # Screen Shots
 
-<img src="ss/login.jpg" height = 420>  <img src="ss/Home.jpg" height = 420>  <img src="ss/phoneBook.jpg" height = 420>  <img src="ss/helpGuide.jpg" height = 420>
+<img src="ss/login.jpg" height = 420>  <img src="ss/Home.jpg" height = 420>  <img src="ss/helpGuide.jpg" height = 420>
 
 ## Special Drawer
 
