@@ -6,4 +6,4 @@ P.S: It's my friend's Project and he allowed me to open source it :)
 
 # Screen Shots
 
-<img src="ss/banner.PNG">
+<img src="ss/banner.png">
