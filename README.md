@@ -1,16 +1,9 @@
-# here_i_am
+# Here I Am - Alert App
 
-A new Flutter project.
+Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.
 
-## Getting Started
+P.S: It's my friend's Project and he allowed me to open source it :)
 
-This project is a starting point for a Flutter application.
+# Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="ss/banner.PNG">
